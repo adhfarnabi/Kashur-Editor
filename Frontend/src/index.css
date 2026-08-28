@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'Gulmarg';
+  src: url('/fonts/GulmargNataleeq_2013.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Narqalam';
+  src: url('/fonts/Narqalam.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gulzar';
+  src: url('/fonts/Gulzar-Regular.ttf') format('truetype');
+  font-display: swap;
+}
