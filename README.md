@@ -140,7 +140,7 @@ It provides functionality such as:
 - JavaScript
 - HTML5
 - CSS
-- Tiptap / ProseMirror-based rich text editing
+- content editable model 
 
 ### Backend
 
